@@ -1,3 +1,5 @@
+> This is not the original repository of [Raylib](https://github.com/raysan5)! Raylib-lite is a repackaged repo that's nice and small. (no examples and git history)
+
 <img align="left" src="https://github.com/raysan5/raylib/blob/master/logo/raylib_logo_animation.gif" width="288px">
 
 **raylib is a simple and easy-to-use library to enjoy videogames programming.**
